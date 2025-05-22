@@ -4,7 +4,7 @@ const connectDB = require('./config/db');
 const cors = require('cors');
 
 const corsOptions = {
-  origin: 'https://job-portal-frontend-bay-psi.vercel.app',
+  origin: 'https://job-portal-frontend-bay-psi.vercel.app/api',
   credentials: true,
 };
 
