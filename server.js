@@ -6,7 +6,7 @@ const cors = require('cors');
  const corsOptions = {
    origin: 'https://job-portal-frontend-bay-psi.vercel.app/api'
 //   origin: 'https://job-portal-frontend-86ph.onrender.com/api',
-   credentials: true,
+ //  credentials: true,
  };
 
 //const allowedOrigins = [
