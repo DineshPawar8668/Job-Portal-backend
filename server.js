@@ -10,7 +10,8 @@ const app = express();
 
 // COrs Configuration
 const corsOptions = {
-  origin: 'https://job-portal-frontend-bay-psi.vercel.app',
+  // origin: 'https://job-portal-frontend-bay-psi.vercel.app',
+  origin: 'https://job-portal-frontend-86ph.onrender.com',
   credentials: true
 };
 
