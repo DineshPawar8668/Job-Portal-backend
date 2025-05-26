@@ -10,7 +10,7 @@ const app = express();
 
 // COrs Configuration
 const corsOptions = {
-  origin:'https://job-portal-frontend-orpin-kappa.vercel.app/login',
+  origin:'https://job-portal-frontend-orpin-kappa.vercel.app',
   // origin: 'https://job-portal-frontend-b3ij.onrender.com',
   credentials: true
 };
